@@ -43,3 +43,16 @@ Adelaide=-27.8/17.3/58.5, ...}
 ## Steps
 Try different types of reading file to memory. Create benchmarks.
 
+Find out maximum speed of SSDs used to get a performance baseline.
+Find out maximum throughput of CPUs used. 
+
+## System
+Laptop: 
+ 
+SSD: max read 7,2 GBPS
+
+CPU: 8 cores, 16 threads 
+
+
+
+
