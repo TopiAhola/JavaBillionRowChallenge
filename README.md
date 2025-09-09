@@ -3,7 +3,7 @@
 ## Idea
 Try the Billion Row Challenge (BRC) 
 
-## What Is BRC:
+## What Is BRC
 From https://github.com/gunnarmorling/1brc
 
 ```
@@ -39,3 +39,7 @@ Accra=-10.1/26.4/66.4,
 Addis Ababa=-23.7/16.0/67.0, 
 Adelaide=-27.8/17.3/58.5, ...}
 ```
+
+## Steps
+Try different types of reading file to memory. Create benchmarks.
+
